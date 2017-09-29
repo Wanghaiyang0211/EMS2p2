@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EMS.BaseClass.BaseInfo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBIkgEBQAVZAAAAAABJCAUEFVJqQAGJMEaYQATAgACQ=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cUnitsInfo" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAgAgwIAAAMAAAAKAAIIAAACCAAAAAAACAIA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cStockInfo" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCABRQwACQRIAIAAYAAAgBAAgIAAAICAAgAAAAAGAAE=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cEmployeeInfo" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhIAQAIQAEAAAAAIACAACAAgAAAACAAA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cBillInfo" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBwQAAAQAAAIAAAIgAAAGEgAAQCIIAEQACgAACwEE=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cCurrentAccount" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgCAAAAAggAEAAAgBAAEIAAAQAAAAEQAAggAAAAA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cUnits" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAggIAAAIAAAAAAAIIAAACCAAAAAAACAAA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cCurrentaccount" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgCAAABAQgAAAAAgAAAEIAAAwAAAAEQAAggAAAAA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.cPopedom" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQgACAAAAAAAAAgAAAAIACAAACMgAAAjA=</HashCode>
+      <FileName>BaseClass\BaseInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseClass.DataBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAIIAAAAAEgQAAAAAAAAAAAAABAACAAAE=</HashCode>
+      <FileName>BaseClass\DataBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EMS.BaseInfo.frmEmployee" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwAgI/1oAKYgABIAAEiAAAACQRYIgAQEBKgBDIAEAAI=</HashCode>
+      <FileName>BaseInfo\frmEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseInfo.frmStock" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgAgY/0IAq4gABIAAEigAAACARQIgBQEADgQRIAAEAI=</HashCode>
+      <FileName>BaseInfo\frmStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BaseInfo.frmUnits" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAgI/0MIKYhgBMAAEiAAAACAxQIgAQkACgABKAAACI=</HashCode>
+      <FileName>BaseInfo\frmUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmBuyStock" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAIAAACAAABAAAKCggAgKGiA6hx2CACEAUAIAgAA=</HashCode>
+      <FileName>BuyStock\frmBuyStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmBuyStockAnalyse" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIL0AACgAACAQAFCACAACAAAAgAQAAAAAQAAAAAA=</HashCode>
+      <FileName>BuyStock\frmBuyStockAnalyse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmBuyStockSum" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEA/0AACAEAAAAAECAAAACAAACAA4AAAABQAAABAI=</HashCode>
+      <FileName>BuyStock\frmBuyStockSum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmCurrentAccountBook" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAI/0AACACAAAAAECAAAACAAAAgAACAAgDAAAAAAA=</HashCode>
+      <FileName>BuyStock\frmCurrentAccountBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmRebuyStock" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADgAIAAACAAQBAAAKCggAgKGgA6hxWCACEAUAIAgAA=</HashCode>
+      <FileName>BuyStock\frmRebuyStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.BuyStock.frmUnitsList" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAACAAAACAAAAAAQAAQAAACAAAAA=</HashCode>
+      <FileName>BuyStock\frmUnitsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.frmLogin" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQECAAABQAAACAgAACICAACAQAACEAAAhAAAA=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.frmMain" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>848AQ/+bAKAAAAATJpCAMKJDShyDIIAUAoqVIgDgWIA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Program" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmResellStock" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAIAAADAAQBCAAKCggAgKGgA6hxWCAGEAUAIAgAA=</HashCode>
+      <FileName>SaleStock\frmResellStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStock" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCgAIAAACAAQBAAAKCggAgKGgA6hxWCACEAUAIAgAA=</HashCode>
+      <FileName>SaleStock\frmSellStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStockCost" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIL0AACAAABAAAECAAAACAAAigAQAAABAQIAAAAI=</HashCode>
+      <FileName>SaleStock\frmSellStockCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStockDesc" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SaleStock\frmSellStockDesc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStockDetailed" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAQAEACAAAQCAAAAQAAAAAAAAAABBAA=</HashCode>
+      <FileName>SaleStock\frmSellStockDetailed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStockStatus" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIL8BACAAAAAAAUGAIAACAAAAgAQAAAAAQAIAgAA=</HashCode>
+      <FileName>SaleStock\frmSellStockStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SaleStock.frmSellStockSum" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEA/0AACAEAAAACECAAAACAAACAA6AAAABQAAABAI=</HashCode>
+      <FileName>SelectDataDialog\frmSellStockSum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSelectDateTime" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAICQQABEAAACAAMACAAACQEQgACAAEAJAAEI=</HashCode>
+      <FileName>SelectDataDialog\frmSelectDateTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSelectHandle" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACIIACAEAAAAAACAAAACCAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>SelectDataDialog\frmSelectHandle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSelectOrderby" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAACCAAABEAAACBAEAaAAACBAQAACAAAAAAAAI=</HashCode>
+      <FileName>SelectDataDialog\frmSelectOrderby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSelectStock" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIMACAEgEEAAACAAAACAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>SelectDataDialog\frmSelectStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSelectUnits" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACIIACAEAAAAAACAAAACEAAAAAAgAAAAAACAAAA=</HashCode>
+      <FileName>SelectDataDialog\frmSelectUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SelectDataDialog.frmSetStockLimit" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABEAQACAAEACAAAABAAAACAAAAAAAAA=</HashCode>
+      <FileName>SelectDataDialog\frmSetStockLimit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SetSystem.frmBakup" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAACAQAACAAEAACQAAAAAAABAAAA=</HashCode>
+      <FileName>SetSystem\frmBakup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SetSystem.frmClearTable" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACRQAAGgCAgIASAECAREABCAAA=</HashCode>
+      <FileName>SetSystem\frmClearTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SetSystem.frmSetOP" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIv8AQDAAgAAAAEKAAAACAQgAgQQAAAgFBAgAAAg=</HashCode>
+      <FileName>SetSystem\frmSetOP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.SetSystem.frmUnits" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgANCAAgBAYAACAAAACACAQAAQgACAAAAAAACA=</HashCode>
+      <FileName>SetSystem\frmUnits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Stock.frmCheckStock" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgABI/0ACCgAAAACAUCAAggCABQAgAQAAAAAQIAAEAA=</HashCode>
+      <FileName>Stock\frmCheckStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Stock.frmLowerLimit" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAACAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Stock\frmLowerLimit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Stock.frmStockStatus" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIC0AAigCAAAAAUCAgAICAAAAgAQAAAAAQAAAAQA=</HashCode>
+      <FileName>Stock\frmStockStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EMS.Stock.frmUpperLimit" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Stock\frmUpperLimit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
